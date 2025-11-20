@@ -8,7 +8,7 @@ This project predicts a student’s marks based on the number of hours studied u
 | ---------------------------------|------------------------------------------------------------------|
 | student.ipynb                    | Jupyter Notebook containing training, evaluation & visualization |
 | frntend.ipynb                    | Notebook that performs predictions based on user input           | 
-| student_performance_dataset.csv  | Dataset with study hours,attendance and marks                    |
+| student_performance_dataset.csv  | Dataset with study hours, attendance and marks                   |
 | README.md	                       | Project documentation                                            | 
 
 
